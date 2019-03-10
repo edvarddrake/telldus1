@@ -14,7 +14,7 @@
     "url"          : "https://github.com/edvarddrake/telldus1/issues"
   }
 , "keywords"       : [ "Telldus" ]
-, "main"           : "./telldus1.js"
+, "main"           : "./test2.js"
 , "engines"        : {
     "node"         : ">=0.8"
   }
