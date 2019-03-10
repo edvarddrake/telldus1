@@ -1,4 +1,4 @@
-var TelldusAPI = require('telldus-live');
+//var TelldusAPI = require('telldus-live');
 
 var publicKey    = 'FEHUVEW84RAFR5SP22RABURUPHAFRUNU'
   , privateKey   = 'ZUXEVEGA9USTAZEWRETHAQUBUR69U6EF'
