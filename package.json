@@ -1,0 +1,24 @@
+{
+  "name"           : "telldus1"
+, "version"        : "0.1.0"
+, "description"    : "A node.js test"
+, "author"         : {
+    "name"         : "Edvard DRake"
+  , "email"        : "edvarddrake@gmail.com"
+  }
+, "repository"     : {
+    "type"         : "git"
+  , "url"          : "https://github.com/edvarddrake/telldus1.git"
+  } 
+, "bugs"           : {
+    "url"          : "https://github.com/edvarddrake/telldus1/issues"
+  }
+, "dependencies"   : {
+  }
+, "keywords"       : [ "Telldus" ]
+, "main"           : "./telldus1.js"
+, "engines"        : {
+    "node"         : ">=0.8"
+  }
+, "readmeFilename" : "README.md"
+}
