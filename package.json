@@ -13,8 +13,6 @@
 , "bugs"           : {
     "url"          : "https://github.com/edvarddrake/telldus1/issues"
   }
-, "dependencies"   : {
-  }
 , "keywords"       : [ "Telldus" ]
 , "main"           : "./telldus1.js"
 , "engines"        : {
